@@ -25,3 +25,12 @@ I have implemented the automation where
 * IntelliJ IDEA
 * Selenium Framework
 * JUnit Testing Tool
+
+# Programming Language
+* Java
+
+
+# Test Summary
+
+![pic 3](https://github.com/sheikh-asiful-islam/Automation_Using_JUnit_Framework_Ver01/assets/51376551/5b0e0637-66f3-4a01-ab0b-d85a8f9901de)
+
